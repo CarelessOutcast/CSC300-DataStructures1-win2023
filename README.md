@@ -18,5 +18,5 @@ Week Topics Algorithms Core Java
 9 Union Find 
 10 Heap / PriorityQueue 
 
-
+//TODO Make a bash tmux session file to make start up faster
 
